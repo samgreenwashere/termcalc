@@ -1,1 +1,4 @@
-test
+To run this program there are no additional dependencies.
+You simply run it as ./termcalc.py
+It is based on python3 but you can run on all python versions which supports operations :)
+Enjoy!
